@@ -12,16 +12,19 @@
 
 ## 👤 Sobre mí
 
-```yaml
-nombre     : Iverson Armando Pérez Maldonado
-ubicación  : Guatemala, Guatemala 🇬🇹
-estado     : Buscando oportunidades — disponibilidad inmediata
-educación  : Perito Técnico en Informática — Fundación Kinal (2022–2026)
-enfoque    : Full-Stack Development + Data & BI
-certificado: Cisco Networking Academy + Erasmus+ (Unión Europea 🇪🇺)
-linkedin   : linkedin.com/in/iversonperez
-email      : pereziverson054@gmail.com
-```
+<div align="center">
+
+| | |
+|:---:|:---|
+| 📍 | Guatemala, Guatemala |
+| 🎓 | Perito Técnico en Informática — Fundación Kinal (2022–2026) |
+| 💼 | Buscando oportunidades — disponibilidad inmediata |
+| 🚀 | Full-Stack Development + Data & BI |
+| 🏆 | Certificado Cisco Networking Academy + Erasmus+ 🇪🇺 |
+| 🔗 | [linkedin.com/in/iversonperez](https://linkedin.com/in/iversonperez) |
+| 📧 | pereziverson054@gmail.com |
+
+</div>
 
 ---
 
@@ -164,11 +167,15 @@ email      : pereziverson054@gmail.com
 
 <div align="center">
 
-![Iverson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iperez-2024003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2E86AB&icon_color=2E86AB&text_color=ffffff)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iperez-2024003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2E86AB&icon_color=2E86AB&text_color=ffffff&cache_seconds=1800"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iperez-2024003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86AB&text_color=ffffff&langs_count=8)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iperez-2024003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86AB&text_color=ffffff&langs_count=8&cache_seconds=1800"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iperez-2024003&theme=tokyonight&hide_border=true&background=0d1117&ring=2E86AB&fire=F59E0B&currStreakLabel=2E86AB)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iperez-2024003&theme=tokyonight&hide_border=true&background=0d1117&ring=2E86AB&fire=F59E0B&currStreakLabel=2E86AB&sideLabels=ffffff&dates=ffffff"/>
 
 </div>
 
