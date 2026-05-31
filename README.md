@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:2E86AB,100:0EA5E9&height=200&section=header&text=Iverson%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Guatemala%20%F0%9F%87%AC%F0%9F%87%B9&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- TYPING EFFECT -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Técnico+en+Informática+%7C+;Full-Stack+Dev+%3A+Java+%2B+.NET+%2B+React+%2B+Node.js;Data+Analyst+%3A+Power+BI+%2B+MySQL;Certificado+Cisco+%2B+Erasmus%2B+%F0%9F%87%AA%F0%9F%87%BA;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Técnico+en+Informática+%7C+Fundación+Kinal;Full-Stack+Dev+%3A+Java+%2B+.NET+%2B+React+%2B+Node.js;Data+Analyst+%3A+Power+BI+%2B+MySQL;Certificado+Cisco+%2B+Erasmus%2B+%F0%9F%87%AA%F0%9F%87%BA;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,15 +14,36 @@
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| 📍 | Guatemala, Guatemala |
-| 🎓 | Perito Técnico en Informática — Fundación Kinal (2026) |
-| 💼 | Disponibilidad inmediata |
-| 🚀 | Full-Stack Development + Data & BI |
-| 🏆 | Certificado Cisco Networking Academy + Erasmus+ 🇪🇺 |
-| 🔗 | [linkedin.com/in/iversonperez](https://linkedin.com/in/iversonperez) |
-| 📧 | pereziverson054@gmail.com |
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B2A4A,100:2E86AB&height=80&text=📍&fontSize=40&fontAlignY=60" width="100%"/>
+<br/><b>Ubicación</b><br/>Guatemala 🇬🇹
+</td>
+<td align="center" width="25%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B2A4A,100:2E86AB&height=80&text=🎓&fontSize=40&fontAlignY=60" width="100%"/>
+<br/><b>Educación</b><br/>Fundación Kinal · 2026
+</td>
+<td align="center" width="25%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B2A4A,100:2E86AB&height=80&text=🚀&fontSize=40&fontAlignY=60" width="100%"/>
+<br/><b>Enfoque</b><br/>Full-Stack + Data & BI
+</td>
+<td align="center" width="25%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B2A4A,100:2E86AB&height=80&text=💼&fontSize=40&fontAlignY=60" width="100%"/>
+<br/><b>Disponibilidad</b><br/>Inmediata ✅
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fiversonperez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iversonperez)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/pereziverson054%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pereziverson054@gmail.com)
+&nbsp;
+[![Cisco](https://img.shields.io/badge/Certificado_Cisco_NetAcad-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.netacad.com)
+&nbsp;
+[![Erasmus](https://img.shields.io/badge/Erasmus%2B_EU_🇪🇺-003399?style=flat-square)](https://erasmus-plus.ec.europa.eu)
 
 </div>
 
@@ -48,6 +69,8 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
@@ -58,6 +81,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
@@ -73,24 +97,34 @@
 
 ## 🏆 Certificaciones
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:003087&height=6" width="100%"/>
+<br/>
 
 ### 🌐 Cisco Networking Academy
 **IT Essentials: PC Hardware and Software**
 `Agosto 2024` · Verificable en Cisco NetAcad
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:003087&height=6" width="100%"/>
 </td>
 <td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003399,100:FFCC00&height=6" width="100%"/>
+<br/>
 
 ### 🇪🇺 Erasmus+ · Unión Europea
 **Estrategias de Negocios con Power BI**
 `Mayo 2026` · ECOCredGT · Kinal · UC3M Madrid
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003399,100:FFCC00&height=6" width="100%"/>
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -103,9 +137,10 @@
 ### 🍽️ [Gestion-Restaurantes](https://github.com/iperez-2024003/Gestion-Restaurantes)
 > Ecosistema Full-Stack para transformar la operación de restaurantes. Conecta dueños, gerentes, personal y comensales en tiempo real.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -199,7 +234,7 @@
 ---
 
 <div align="center">
-  
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2E86AB,100:1B2A4A&height=100&section=footer" width="100%"/>
 
 </div>
