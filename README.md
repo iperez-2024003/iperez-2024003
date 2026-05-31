@@ -192,12 +192,14 @@
 [![Gmail](https://img.shields.io/badge/Gmail-pereziverson054%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pereziverson054@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-iperez--2024003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iperez-2024003)
 
+![Profile Views](https://komarev.com/ghpvc/?username=iperez-2024003&color=2E86AB&style=for-the-badge&label=Visitas+al+perfil)
+
 </div>
 
 ---
 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=iperez-2024003&color=2E86AB&style=for-the-badge&label=Visitas+al+perfil)
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2E86AB,100:1B2A4A&height=100&section=footer" width="100%"/>
 
 </div>
