@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:2E86AB,100:0EA5E9&height=200&section=header&text=Iverson%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Guatemala%20%F0%9F%87%AC%F0%9F%87%B9&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- TYPING EFFECT -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Técnico+en+Informática+%7C+Fundación+Kinal;Full-Stack+Dev+%3A+Java+%2B+.NET+%2B+React+%2B+Node.js;Data+Analyst+%3A+Power+BI+%2B+MySQL;Certificado+Cisco+%2B+Erasmus%2B+%F0%9F%87%AA%F0%9F%87%BA;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Técnico+en+Informática+%7C+;Full-Stack+Dev+%3A+Java+%2B+.NET+%2B+React+%2B+Node.js;Data+Analyst+%3A+Power+BI+%2B+MySQL;Certificado+Cisco+%2B+Erasmus%2B+%F0%9F%87%AA%F0%9F%87%BA;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,8 +17,8 @@
 | | |
 |:---:|:---|
 | 📍 | Guatemala, Guatemala |
-| 🎓 | Perito Técnico en Informática — Fundación Kinal (2022–2026) |
-| 💼 | Buscando oportunidades — disponibilidad inmediata |
+| 🎓 | Perito Técnico en Informática — Fundación Kinal (2026) |
+| 💼 | Disponibilidad inmediata |
 | 🚀 | Full-Stack Development + Data & BI |
 | 🏆 | Certificado Cisco Networking Academy + Erasmus+ 🇪🇺 |
 | 🔗 | [linkedin.com/in/iversonperez](https://linkedin.com/in/iversonperez) |
