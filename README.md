@@ -3,8 +3,7 @@
 <!-- HEADER ANIMADO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:2E86AB,100:0EA5E9&height=200&section=header&text=Iverson%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Guatemala%20%F0%9F%87%AC%F0%9F%87%B9&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- TYPING EFFECT -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Técnico+en+Informática+%7C+Fundación+Kinal;Full-Stack+Dev+%3A+Java+%2B+.NET+%2B+React+%2B+Node.js;Data+Analyst+%3A+Power+BI+%2B+MySQL;Certificado+Cisco+%2B+Erasmus%2B+%F0%9F%87%AA%F0%9F%87%BA;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Full-Stack+Dev+%3A+React+%2B+Node.js+%2B+Java+%2B+Django;Data+Analyst+%3A+Power+BI+%2B+PostgreSQL+%2B+Python;Ciberseguridad+%2B+IA+%2B+Erasmus%2B+%F0%9F%87%AA%F0%9F%87%BA;Certificado+Cisco+Networking+Academy;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -57,13 +56,18 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Datos & Business Intelligence
 
@@ -71,6 +75,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
@@ -78,11 +84,11 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### Metodologías
@@ -120,6 +126,47 @@
 `Mayo 2026` · ECOCredGT · Kinal · UC3M Madrid
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003399,100:FFCC00&height=6" width="100%"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📚 Formación Continua
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:1a3a2a&height=6" width="100%"/>
+<br/>
+
+### 🛡️ Ciberseguridad y Hacking Ético
+**Técnicas de detección de vulnerabilidades y defensa digital**
+`Junio 2026` · BIG school · 6 horas
+<br/>
+<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ciberseguridad.pdf">
+<img src="https://img.shields.io/badge/Ver_certificado-0d1b2a?style=flat-square&logo=googledocs&logoColor=white"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:1a3a2a&height=6" width="100%"/>
+</td>
+<td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a2e,100:3d1a6e&height=6" width="100%"/>
+<br/>
+
+### 🤖 Curso de IA — De 0 a Agentes
+**Domina la IA, gana competitividad y aprende cómo los agentes trabajan por ti**
+`Junio 2026` · BIG school · Jon Hernández · 6 horas
+<br/>
+<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ia-agentes.pdf">
+<img src="https://img.shields.io/badge/Ver_certificado-1a0a2e?style=flat-square&logo=googledocs&logoColor=white"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a2e,100:3d1a6e&height=6" width="100%"/>
 </td>
 </tr>
 </table>
