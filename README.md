@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- HEADER ANIMADO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:2E86AB,100:0EA5E9&height=200&section=header&text=Iverson%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Guatemala%20%F0%9F%87%AC%F0%9F%87%B9&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Full-Stack+Dev+%3A+React+%2B+Node.js+%2B+Java+%2B+Django;Data+Analyst+%3A+Power+BI+%2B+PostgreSQL+%2B+Python;Ciberseguridad+%2B+IA+%2B+Erasmus%2B+%F0%9F%87%AA%F0%9F%87%BA;Certificado+Cisco+Networking+Academy;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Full-Stack+Dev+%3A+React+%2B+Node.js+%2B+Java+%2B+Django;Data+Analyst+%3A+Power+BI+%2B+PostgreSQL+%2B+Python;Ciberseguridad+%2B+IA+%2B+Erasmus%2B+%F0%9F%87%AA%F0%9F%87%BA;Certificado+Cisco+Networking+Academy+%E2%9C%85;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,13 +35,13 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fiversonperez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iversonperez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iversonperez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iversonperez)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/pereziverson054%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pereziverson054@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-pereziverson054-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pereziverson054@gmail.com)
 &nbsp;
-[![Cisco](https://img.shields.io/badge/Certificado_Cisco_NetAcad-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.netacad.com)
+[![Cisco Verified](https://img.shields.io/badge/Cisco_Badge-VERIFIED-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/8482c503-9e7f-4451-baed-2144b8e7dc0e)
 &nbsp;
-[![Erasmus](https://img.shields.io/badge/Erasmus%2B_EU_🇪🇺-003399?style=flat-square)](https://erasmus-plus.ec.europa.eu)
+[![Erasmus+](https://img.shields.io/badge/Erasmus%2B-UE-003399?style=flat-square&logo=europeanunion&logoColor=white)](https://erasmus-plus.ec.europa.eu)
 
 </div>
 
@@ -111,9 +110,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:003087&height=6" width="100%"/>
 <br/>
 
-### 🌐 Cisco Networking Academy
 **IT Essentials: PC Hardware and Software**
-`Agosto 2024` · Verificable en Cisco NetAcad
+
+[![Cisco Badge](https://img.shields.io/badge/Cisco_Networking_Academy-VERIFIED_✓-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/8482c503-9e7f-4451-baed-2144b8e7dc0e)
+
+`30 Agosto 2024` · Emitido por Cisco · Verificado en Credly
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:003087&height=6" width="100%"/>
 </td>
@@ -121,8 +122,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003399,100:FFCC00&height=6" width="100%"/>
 <br/>
 
-### 🇪🇺 Erasmus+ · Unión Europea
 **Estrategias de Negocios con Power BI**
+
+[![Erasmus Badge](https://img.shields.io/badge/Erasmus%2B_Uni%C3%B3n_Europea-CERTIFICADO-003399?style=for-the-badge&logo=europeanunion&logoColor=white)](https://erasmus-plus.ec.europa.eu)
+
 `Mayo 2026` · ECOCredGT · Kinal · UC3M Madrid
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003399,100:FFCC00&height=6" width="100%"/>
@@ -144,13 +147,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:1a3a2a&height=6" width="100%"/>
 <br/>
 
-### 🛡️ Ciberseguridad y Hacking Ético
-**Técnicas de detección de vulnerabilidades y defensa digital**
-`Junio 2026` · BIG school · 6 horas
-<br/>
-<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ciberseguridad.pdf">
-<img src="https://img.shields.io/badge/Ver_certificado-0d1b2a?style=flat-square&logo=googledocs&logoColor=white"/>
-</a>
+**Ciberseguridad y Hacking Ético**
+
+[![BIG school](https://img.shields.io/badge/BIG_school-Ver_certificado-1a3a2a?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ciberseguridad.pdf)
+
+`Junio 2026` · Técnicas de detección de vulnerabilidades · 6h
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:1a3a2a&height=6" width="100%"/>
 </td>
@@ -158,13 +159,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a2e,100:3d1a6e&height=6" width="100%"/>
 <br/>
 
-### 🤖 Curso de IA — De 0 a Agentes
-**Domina la IA, gana competitividad y aprende cómo los agentes trabajan por ti**
-`Junio 2026` · BIG school · Jon Hernández · 6 horas
-<br/>
-<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ia-agentes.pdf">
-<img src="https://img.shields.io/badge/Ver_certificado-1a0a2e?style=flat-square&logo=googledocs&logoColor=white"/>
-</a>
+**Curso de IA — De 0 a Agentes**
+
+[![BIG school](https://img.shields.io/badge/BIG_school-Ver_certificado-3d1a6e?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ia-agentes.pdf)
+
+`Junio 2026` · Jon Hernández · Agentes de IA · 6h
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a2e,100:3d1a6e&height=6" width="100%"/>
 </td>
@@ -181,8 +180,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ [Gestion-Restaurantes](https://github.com/iperez-2024003/Gestion-Restaurantes)
-> Ecosistema Full-Stack para transformar la operación de restaurantes. Conecta dueños, gerentes, personal y comensales en tiempo real.
+**[Gestion-Restaurantes](https://github.com/iperez-2024003/Gestion-Restaurantes)**
+> Ecosistema Full-Stack para la operación de restaurantes. Conecta dueños, gerentes, personal y comensales en tiempo real.
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -192,8 +191,8 @@
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [ProyectoFinal4](https://github.com/iperez-2024003/ProyectoFinal4)
-> Juego del Ahorcado con API REST en Spring Boot + MySQL. Autenticación de usuarios, sistema de pistas y estadísticas de juego.
+**[ProyectoFinal4](https://github.com/iperez-2024003/ProyectoFinal4)**
+> Juego del Ahorcado con API REST en Spring Boot + MySQL. Autenticación de usuarios, pistas y estadísticas.
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -204,17 +203,17 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 [Interfer](https://github.com/iperez-2024003/Interfer)
-> API REST de nivel portafolio para autenticar usuarios, gestionar empresas y generar reportes en Excel. Arquitectura limpia y validación robusta.
+**[Interfer](https://github.com/iperez-2024003/Interfer)**
+> API REST para autenticar usuarios, gestionar empresas y generar reportes en Excel. Arquitectura limpia y validación robusta.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat)
+![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=fastapi&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [CyberShield](https://github.com/iperez-2024003/CyberShield)
+**[CyberShield](https://github.com/iperez-2024003/CyberShield)**
 > Sitio web de ciberseguridad con catálogo de soluciones, blog técnico y simulador visual de Security Scan.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -226,8 +225,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [Gestor-Opiniones](https://github.com/iperez-2024003/Gestor-Opiniones)
-> Sistema de gestión de opiniones inspirado en redes sociales. Publicaciones, interacciones y expresión de opinión en tiempo real.
+**[Gestor-Opiniones](https://github.com/iperez-2024003/Gestor-Opiniones)**
+> Sistema de gestión de opiniones inspirado en redes sociales. Publicaciones e interacciones en tiempo real.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -235,11 +234,11 @@
 </td>
 <td width="50%" valign="top">
 
-### 💱 [Convertidor-Divisas](https://github.com/iperez-2024003/Convertidor-Divisas)
-> Aplicación web para convertir divisas en tiempo real. Interfaz responsive con integración a API REST externa y diseño moderno.
+**[Convertidor-Divisas](https://github.com/iperez-2024003/Convertidor-Divisas)**
+> App web para convertir divisas en tiempo real. Interfaz responsive con integración a API REST externa.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat)
+![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=fastapi&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
