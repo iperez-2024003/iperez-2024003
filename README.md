@@ -15,20 +15,20 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B2A4A,100:2E86AB&height=80&text=📍&fontSize=40&fontAlignY=60" width="100%"/>
-<br/><b>Ubicación</b><br/>Guatemala 🇬🇹
+<img src="https://img.shields.io/badge/Ubicación-Guatemala-2E86AB?style=for-the-badge&logo=googlemaps&logoColor=white" width="100%"/>
+<br/><br/>🇬🇹 Guatemala
 </td>
 <td align="center" width="25%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B2A4A,100:2E86AB&height=80&text=🎓&fontSize=40&fontAlignY=60" width="100%"/>
-<br/><b>Educación</b><br/>Fundación Kinal · 2026
+<img src="https://img.shields.io/badge/Educación-Fundación_Kinal_·_2026-2E86AB?style=for-the-badge&logo=googlescholar&logoColor=white" width="100%"/>
+<br/><br/>Fundación Kinal · 2026
 </td>
 <td align="center" width="25%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B2A4A,100:2E86AB&height=80&text=🚀&fontSize=40&fontAlignY=60" width="100%"/>
-<br/><b>Enfoque</b><br/>Full-Stack + Data & BI
+<img src="https://img.shields.io/badge/Enfoque-Full--Stack_+_Data_%26_BI-2E86AB?style=for-the-badge&logo=stackshare&logoColor=white" width="100%"/>
+<br/><br/>Full-Stack + Data & BI
 </td>
 <td align="center" width="25%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B2A4A,100:2E86AB&height=80&text=💼&fontSize=40&fontAlignY=60" width="100%"/>
-<br/><b>Disponibilidad</b><br/>Inmediata ✅
+<img src="https://img.shields.io/badge/Disponibilidad-Inmediata-27AE60?style=for-the-badge&logo=checkmarx&logoColor=white" width="100%"/>
+<br/><br/>Disponible ahora ✅
 </td>
 </tr>
 </table>
@@ -126,7 +126,9 @@
 
 **Estrategias de Negocios con Power BI**
 
-[![Erasmus Badge](https://img.shields.io/badge/Erasmus%2B_Uni%C3%B3n_Europea-CERTIFICADO-003399?style=for-the-badge&logo=europeanunion&logoColor=white)](https://erasmus-plus.ec.europa.eu)
+<a href="https://erasmus-plus.ec.europa.eu" target="_blank">
+  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/erasmus-powerbi.png" width="150" alt="Erasmus+ Power BI Badge"/>
+</a>
 
 `Mayo 2026` · ECOCredGT · Kinal · UC3M Madrid
 
@@ -151,7 +153,9 @@
 
 **Ciberseguridad y Hacking Ético**
 
-[![BIG school](https://img.shields.io/badge/BIG_school-Ver_certificado-1a3a2a?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ciberseguridad.pdf)
+<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ciberseguridad.pdf" target="_blank">
+  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ciberseguridad.png" width="150" alt="Certificado Ciberseguridad BIG school"/>
+</a>
 
 `Junio 2026` · Técnicas de detección de vulnerabilidades · 6h
 
@@ -163,7 +167,9 @@
 
 **Curso de IA — De 0 a Agentes**
 
-[![BIG school](https://img.shields.io/badge/BIG_school-Ver_certificado-3d1a6e?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ia-agentes.pdf)
+<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ia-agentes.pdf" target="_blank">
+  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ia-agentes.png" width="150" alt="Certificado IA Agentes BIG school"/>
+</a>
 
 `Junio 2026` · Jon Hernández · Agentes de IA · 6h
 
