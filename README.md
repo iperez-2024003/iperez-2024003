@@ -8,7 +8,7 @@
 
 ---
 
-## 👤 Sobre mí
+## &#x1F464; Sobre mí
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## &#x1F6E0;&#xFE0F; Stack Tecnológico
 
 ### Lenguajes & Frameworks
 
@@ -100,7 +100,7 @@
 
 ---
 
-## 🏆 Certificaciones
+## &#x1F3C6; Certificaciones
 
 <div align="center">
 
@@ -137,7 +137,7 @@
 
 ---
 
-## 📚 Formación Continua
+## &#x1F4DA; Formación Continua
 
 <div align="center">
 
@@ -174,7 +174,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## &#x1F4BB; Proyectos Destacados
 
 <table>
 <tr>
@@ -247,7 +247,7 @@
 
 ---
 
-## 📊 Estadísticas GitHub
+## &#x1F4CA; Estadísticas GitHub
 
 <div align="center">
 
@@ -265,7 +265,7 @@
 
 ---
 
-## 🌐 Conecta conmigo
+## &#x1F310; Conecta conmigo
 
 <div align="center">
 
