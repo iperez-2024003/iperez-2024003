@@ -106,34 +106,60 @@
 
 <table>
 <tr>
+
+<!-- CISCO -->
 <td align="center" width="50%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:003087&height=6" width="100%"/>
 <br/>
 
 **IT Essentials: PC Hardware and Software**
 
-<a href="https://www.credly.com/badges/8482c503-9e7f-4451-baed-2144b8e7dc0e/public_url" target="_blank">
-  <img src="https://images.credly.com/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/linkedin_thumb_ITE.png" width="150" alt="Cisco IT Essentials Badge"/>
+`Cisco Networking Academy`
+
+<table>
+<tr>
+<td align="center">
+<b>Certificado</b><br/><br/>
+<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ItEssentials.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ItEssentials.png" width="160" alt="Certificado IT Essentials Cisco"/>
 </a>
+</td>
+<td align="center">
+<b>Insignia Verificada</b><br/><br/>
+<a href="https://www.credly.com/badges/8482c503-9e7f-4451-baed-2144b8e7dc0e/public_url" target="_blank">
+  <img src="https://images.credly.com/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/linkedin_thumb_ITE.png" width="130" alt="Insignia Cisco IT Essentials Credly"/>
+</a>
+</td>
+</tr>
+</table>
 
 `30 Agosto 2024` · Emitido por Cisco · Verificado en Credly
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:003087&height=6" width="100%"/>
 </td>
+
+<!-- ERASMUS -->
 <td align="center" width="50%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003399,100:FFCC00&height=6" width="100%"/>
 <br/>
 
 **Estrategias de Negocios con Power BI**
 
-<a href="https://erasmus-plus.ec.europa.eu" target="_blank">
-  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/erasmus-powerbi.png" width="150" alt="Erasmus+ Power BI Badge"/>
+`Erasmus+ · Unión Europea`
+
+<br/>
+
+<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/erasmus-powerbi.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/erasmus-powerbi.png" width="200" alt="Certificado Erasmus+ Power BI"/>
 </a>
+
+<br/><br/>
 
 `Mayo 2026` · ECOCredGT · Kinal · UC3M Madrid
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003399,100:FFCC00&height=6" width="100%"/>
 </td>
+
 </tr>
 </table>
 
@@ -147,34 +173,51 @@
 
 <table>
 <tr>
+
+<!-- CIBERSEGURIDAD -->
 <td align="center" width="50%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:1a3a2a&height=6" width="100%"/>
 <br/>
 
 **Ciberseguridad y Hacking Ético**
 
-<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ciberseguridad.pdf" target="_blank">
-  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ciberseguridad.png" width="150" alt="Certificado Ciberseguridad BIG school"/>
+`BIG school`
+
+<br/>
+
+<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ciberseguridad.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ciberseguridad.png" width="200" alt="Certificado Ciberseguridad BIG school"/>
 </a>
+
+<br/><br/>
 
 `Junio 2026` · Técnicas de detección de vulnerabilidades · 6h
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:1a3a2a&height=6" width="100%"/>
 </td>
+
+<!-- IA AGENTES -->
 <td align="center" width="50%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a2e,100:3d1a6e&height=6" width="100%"/>
 <br/>
 
 **Curso de IA — De 0 a Agentes**
 
-<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ia-agentes.pdf" target="_blank">
-  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ia-agentes.png" width="150" alt="Certificado IA Agentes BIG school"/>
+`BIG school`
+
+<br/>
+
+<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ia-agentes.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ia-agentes.png" width="200" alt="Certificado IA Agentes BIG school"/>
 </a>
+
+<br/><br/>
 
 `Junio 2026` · Jon Hernández · Agentes de IA · 6h
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a2e,100:3d1a6e&height=6" width="100%"/>
 </td>
+
 </tr>
 </table>
 
