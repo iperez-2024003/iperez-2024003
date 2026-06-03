@@ -8,7 +8,7 @@
 
 ---
 
-## &#x1F464; Sobre mí
+## <img src="https://img.shields.io/badge/Sobre_mí-1B2A4A?style=for-the-badge&logo=github&logoColor=white"/>
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-pereziverson054-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pereziverson054@gmail.com)
 &nbsp;
-[![Cisco Verified](https://img.shields.io/badge/Cisco_Badge-VERIFIED-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/8482c503-9e7f-4451-baed-2144b8e7dc0e)
+[![Cisco Verified](https://img.shields.io/badge/Cisco_Badge-VERIFIED-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/8482c503-9e7f-4451-baed-2144b8e7dc0e/public_url)
 &nbsp;
 [![Erasmus+](https://img.shields.io/badge/Erasmus%2B-UE-003399?style=flat-square&logo=europeanunion&logoColor=white)](https://erasmus-plus.ec.europa.eu)
 
@@ -47,7 +47,7 @@
 
 ---
 
-## &#x1F6E0;&#xFE0F; Stack Tecnológico
+## <img src="https://img.shields.io/badge/Stack_Tecnológico-1B2A4A?style=for-the-badge&logo=stackshare&logoColor=white"/>
 
 ### Lenguajes & Frameworks
 
@@ -100,7 +100,7 @@
 
 ---
 
-## &#x1F3C6; Certificaciones
+## <img src="https://img.shields.io/badge/Certificaciones-1B2A4A?style=for-the-badge&logo=awesomewm&logoColor=gold"/>
 
 <div align="center">
 
@@ -112,7 +112,9 @@
 
 **IT Essentials: PC Hardware and Software**
 
-[![Cisco Badge](https://img.shields.io/badge/Cisco_Networking_Academy-VERIFIED_✓-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/8482c503-9e7f-4451-baed-2144b8e7dc0e)
+<a href="https://www.credly.com/badges/8482c503-9e7f-4451-baed-2144b8e7dc0e/public_url" target="_blank">
+  <img src="https://images.credly.com/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/linkedin_thumb_ITE.png" width="150" alt="Cisco IT Essentials Badge"/>
+</a>
 
 `30 Agosto 2024` · Emitido por Cisco · Verificado en Credly
 
@@ -137,7 +139,7 @@
 
 ---
 
-## &#x1F4DA; Formación Continua
+## <img src="https://img.shields.io/badge/Formación_Continua-1B2A4A?style=for-the-badge&logo=bookstack&logoColor=white"/>
 
 <div align="center">
 
@@ -174,7 +176,7 @@
 
 ---
 
-## &#x1F4BB; Proyectos Destacados
+## <img src="https://img.shields.io/badge/Proyectos_Destacados-1B2A4A?style=for-the-badge&logo=github&logoColor=white"/>
 
 <table>
 <tr>
@@ -247,7 +249,7 @@
 
 ---
 
-## &#x1F4CA; Estadísticas GitHub
+## <img src="https://img.shields.io/badge/Estadísticas_GitHub-1B2A4A?style=for-the-badge&logo=github&logoColor=white"/>
 
 <div align="center">
 
@@ -265,7 +267,7 @@
 
 ---
 
-## &#x1F310; Conecta conmigo
+## <img src="https://img.shields.io/badge/Conecta_conmigo-1B2A4A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 <div align="center">
 
