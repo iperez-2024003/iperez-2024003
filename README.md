@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:2E86AB,100:0EA5E9&height=200&section=header&text=Iverson%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Guatemala%20%F0%9F%87%AC%F0%9F%87%B9&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:7C3AED,100:A855F7&height=200&section=header&text=Iverson%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Guatemala%20%F0%9F%87%AC%F0%9F%87%B9&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Full-Stack+Dev+%3A+React+%2B+Node.js+%2B+Java+%2B+Django;Data+Analyst+%3A+Power+BI+%2B+PostgreSQL+%2B+Python;Ciberseguridad+%2B+IA+%2B+Erasmus%2B+%F0%9F%87%AA%F0%9F%87%BA;Certificado+Cisco+Networking+Academy+%E2%9C%85;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Dev+%3A+React+%2B+Node.js+%2B+Java+%2B+Django;Data+Analyst+%3A+Power+BI+%2B+PostgreSQL+%2B+Python;Ciberseguridad+%2B+IA+%2B+Erasmus%2B+%F0%9F%87%AA%F0%9F%87%BA;Certificado+Cisco+Networking+Academy+%E2%9C%85;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,15 +15,15 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Ubicación-Guatemala-2E86AB?style=for-the-badge&logo=googlemaps&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/Ubicación-Guatemala-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" width="100%"/>
 <br/><br/>🇬🇹 Guatemala
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Educación-Fundación_Kinal_·_2026-2E86AB?style=for-the-badge&logo=googlescholar&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/Educación-Fundación_Kinal_·_2026-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" width="100%"/>
 <br/><br/>Fundación Kinal · 2026
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Enfoque-Full--Stack_+_Data_%26_BI-2E86AB?style=for-the-badge&logo=stackshare&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/Enfoque-Full--Stack_+_Data_%26_BI-7C3AED?style=for-the-badge&logo=stackshare&logoColor=white" width="100%"/>
 <br/><br/>Full-Stack + Data & BI
 </td>
 <td align="center" width="25%">
@@ -117,7 +117,7 @@
 <tr>
 <td align="center">
 <b>Certificado</b><br/><br/>
-<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ItEssentials.png" target="_blank">
+<a href="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ItEssentials.png" target="_blank">
   <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ItEssentials.png" width="160" alt="Certificado IT Essentials Cisco"/>
 </a>
 </td>
@@ -146,7 +146,7 @@
 
 <br/>
 
-<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/erasmus-powerbi.png" target="_blank">
+<a href="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/erasmus-powerbi.png" target="_blank">
   <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/erasmus-powerbi.png" width="200" alt="Certificado Erasmus+ Power BI"/>
 </a>
 
@@ -182,7 +182,7 @@
 
 <br/>
 
-<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ciberseguridad.png" target="_blank">
+<a href="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ciberseguridad.png" target="_blank">
   <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ciberseguridad.png" width="200" alt="Certificado Ciberseguridad BIG school"/>
 </a>
 
@@ -204,7 +204,7 @@
 
 <br/>
 
-<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ia-agentes.png" target="_blank">
+<a href="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ia-agentes.png" target="_blank">
   <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ia-agentes.png" width="200" alt="Certificado IA Agentes BIG school"/>
 </a>
 
@@ -311,15 +311,21 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iperez-2024003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2E86AB&icon_color=2E86AB&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iperez-2024003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" />
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iperez-2024003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86AB&text_color=ffffff&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iperez-2024003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=iperez-2024003&theme=tokyonight&hide_border=true&background=0d1117&ring=2E86AB&fire=F59E0B&currStreakLabel=2E86AB&sideLabels=ffffff&dates=888888" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=iperez-2024003&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=ffffff&dates=888888" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
@@ -333,7 +339,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-pereziverson054%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pereziverson054@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-iperez--2024003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iperez-2024003)
 
-![Profile Views](https://komarev.com/ghpvc/?username=iperez-2024003&color=2E86AB&style=for-the-badge&label=Visitas+al+perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=iperez-2024003&color=7C3AED&style=for-the-badge&label=Visitas+al+perfil)
 
 </div>
 
@@ -341,6 +347,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2E86AB,100:1B2A4A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:1B2A4A&height=100&section=footer" width="100%"/>
 
 </div>
