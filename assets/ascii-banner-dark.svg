@@ -18,12 +18,14 @@
         stroke: rgba(168,85,247,0.35);
         stroke-width: 1;
       }
-      .ascii { fill: #A855F7; font-size: 11px; }
+      .asciiFace { fill: #A855F7; font-size: 6.4px; letter-spacing: -0.3px; }
       .prompt { fill: #7C3AED; }
       .txt { fill: #E5E7EB; }
       .cursor { fill: #A855F7; }
       @keyframes blink { 0%,49% {opacity:1;} 50%,100% {opacity:0;} }
       .cursorAnim { animation: blink 1s steps(1) infinite; }
+      @keyframes glow { 0%,100% {opacity:0.75;} 50% {opacity:1;} }
+      .glowAnim { animation: glow 3s ease-in-out infinite; }
     </style>
   </defs>
 
@@ -63,23 +65,34 @@
     </rect>
   </g>
 
-  <!-- ASCII avatar panel -->
+  <!-- ASCII portrait panel (foto real convertida) -->
   <rect x="550" y="30" width="320" height="200" rx="14" class="glassPanel" filter="url(#glass)"/>
-  <g class="mono ascii" text-anchor="middle">
-    <text x="710" y="55">      ______</text>
-    <text x="710" y="70">    ,'      `.</text>
-    <text x="710" y="85">   /  ⌒    ⌒  \</text>
-    <text x="710" y="100">  |      ‿      |</text>
-    <text x="710" y="115">   \.__    __./</text>
-    <text x="710" y="130">     |  ‾‾  |</text>
-    <text x="710" y="145">   .-'------'-.</text>
-    <text x="710" y="160">  /____________\</text>
-    <text x="710" y="180" fill="#7C3AED" font-size="10">Iverson · &lt;/&gt; dev</text>
-    <text x="710" y="195" fill="#7C3AED" font-size="9" opacity="0.85">
-      &lt; building things that work &gt;
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
-    </text>
-  </g>
+  <text class="mono asciiFace glowAnim">
+      <tspan x="560" y="42.0">------::...::.... :....+:      .  ...         </tspan>
+      <tspan x="560" y="48.6">=:::...:::::::....-:---*-:::....:::...... ..  </tspan>
+      <tspan x="560" y="55.2">--=--:........::.::..--*--+*==-==++=+==--..--:</tspan>
+      <tspan x="560" y="61.8">----=======--==:.--..::+=========-+**++++=::=+</tspan>
+      <tspan x="560" y="68.4">--:---++=+==--=+#######%####*+==---=--===--:::</tspan>
+      <tspan x="560" y="75.0">::...-+=-:::::*@@@@@@@@@@@@@@@%*++=+++++++++++</tspan>
+      <tspan x="560" y="81.6">==---==-:::::+@@@@%##*++*##%@@@@#******#***%%#</tspan>
+      <tspan x="560" y="88.2">-----=+======%@@%#*+++++=+++#@@@##%%*#%#*+*%#*</tspan>
+      <tspan x="560" y="94.8">::::::::::::-%@%**###*++******@@#*###%%#**##==</tspan>
+      <tspan x="560" y="101.4">---------::::#@***###*=+###**+#@+==+++++++++++</tspan>
+      <tspan x="560" y="108.0">---------::-:=#==+***=-=+*#*=-+%-:::::::::----</tspan>
+      <tspan x="560" y="114.6">--------------====++****+++=---=:---::-:--::::</tspan>
+      <tspan x="560" y="121.2">--------------=+++*+*****+*++==-------:-------</tspan>
+      <tspan x="560" y="127.8">=====---====---++**#*****##*+=----------------</tspan>
+      <tspan x="560" y="134.4">===-====--======+*++*****++++*+---------------</tspan>
+      <tspan x="560" y="141.0">=+=====*++=======**+++++++**+%@#+++=-------==-</tspan>
+      <tspan x="560" y="147.6">*#==#*=*%=====++****#####****%@@@%%%*+++=====-</tspan>
+      <tspan x="560" y="154.2">+#+=++=*#+=#**#%@******##***#@@@@@%#*****++++=</tspan>
+      <tspan x="560" y="160.8">#%%##%#++***##%@#**********#@@@@@@%@@@%%##**#*</tspan>
+      <tspan x="560" y="167.4">@@@@@@#***###%@@+++*******#@@@@@@@@@@@%%@@%##*</tspan>
+      <tspan x="560" y="174.0">@***#*#%@@@@@@@@%*++***#%@@@@@@@@@@@@@@%%@@%%%</tspan>
+      <tspan x="560" y="180.6">%@###%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="560" y="187.2">%##%@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+  </text>
+  <text x="710" y="222" text-anchor="middle" fill="#7C3AED" font-size="9" class="mono" opacity="0.85">Iverson · &lt;/&gt; dev</text>
 
   <rect x="30" y="245" width="840" height="2" fill="url(#accentDark)"/>
 </svg>
