@@ -66,15 +66,16 @@
   <!-- ASCII avatar panel -->
   <rect x="550" y="30" width="320" height="200" rx="14" class="glassPanel" filter="url(#glass)"/>
   <g class="mono ascii" text-anchor="middle">
-    <text x="710" y="55">.-------------------.</text>
-    <text x="710" y="70">|    _________      |</text>
-    <text x="710" y="85">|   /  o   o  \     |</text>
-    <text x="710" y="100">|  |   ----    |    |</text>
-    <text x="710" y="115">|   \  ====  /      |</text>
-    <text x="710" y="130">|    '-----'        |</text>
-    <text x="710" y="145">|   [ &lt;/&gt; DEV ]     |</text>
-    <text x="710" y="160">'-------------------'</text>
-    <text x="710" y="185" fill="#7C3AED" font-size="10">
+    <text x="710" y="55">      ______</text>
+    <text x="710" y="70">    ,'      `.</text>
+    <text x="710" y="85">   /  ⌒    ⌒  \</text>
+    <text x="710" y="100">  |      ‿      |</text>
+    <text x="710" y="115">   \.__    __./</text>
+    <text x="710" y="130">     |  ‾‾  |</text>
+    <text x="710" y="145">   .-'------'-.</text>
+    <text x="710" y="160">  /____________\</text>
+    <text x="710" y="180" fill="#7C3AED" font-size="10">Iverson · &lt;/&gt; dev</text>
+    <text x="710" y="195" fill="#7C3AED" font-size="9" opacity="0.85">
       &lt; building things that work &gt;
       <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
     </text>
