@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:7C3AED,100:A855F7&height=200&section=header&text=Iverson%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Guatemala&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%3A+React+%2B+Node.js+%2B+Java+%2B+Django;Ciberseguridad+%2B+IA+%2B+Erasmus%2B;Certificado+Cisco+Networking+Academy;Habilidad+extra%3A+Data+Analyst+con+Power+BI;Disponible+para+trabajar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%3A+React+%2B+Node.js+%2B+Java+%2B+Ciberseguridad+%2B+IA+%2B;Certificado+Cisco+Networking+Academy;Habilidad+extra%3A+Data+Analyst+con+Power+BI;Disponible+para+trabajar)](https://git.io/typing-svg)
 
 </div>
 
