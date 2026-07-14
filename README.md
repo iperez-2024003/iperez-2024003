@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:2E86AB,100:0EA5E9&height=200&section=header&text=Iverson%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Guatemala%20%F0%9F%87%AC%F0%9F%87%B9&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:7C3AED,100:A855F7&height=200&section=header&text=Iverson%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Guatemala%20%F0%9F%87%AC%F0%9F%87%B9&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Full-Stack+Dev+%3A+React+%2B+Node.js+%2B+Java+%2B+Django;Data+Analyst+%3A+Power+BI+%2B+PostgreSQL+%2B+Python;Ciberseguridad+%2B+IA+%2B+Erasmus%2B+%F0%9F%87%AA%F0%9F%87%BA;Certificado+Cisco+Networking+Academy+%E2%9C%85;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Dev+%3A+React+%2B+Node.js+%2B+Java+%2B+Django;Data+Analyst+%3A+Power+BI+%2B+PostgreSQL+%2B+Python;Ciberseguridad+%2B+IA+%2B+Erasmus%2B+%F0%9F%87%AA%F0%9F%87%BA;Certificado+Cisco+Networking+Academy+%E2%9C%85;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,15 +15,15 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Ubicación-Guatemala-2E86AB?style=for-the-badge&logo=googlemaps&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/Ubicación-Guatemala-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" width="100%"/>
 <br/><br/>🇬🇹 Guatemala
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Educación-Fundación_Kinal_·_2026-2E86AB?style=for-the-badge&logo=googlescholar&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/Educación-Fundación_Kinal_·_2026-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" width="100%"/>
 <br/><br/>Fundación Kinal · 2026
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Enfoque-Full--Stack_+_Data_%26_BI-2E86AB?style=for-the-badge&logo=stackshare&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/Enfoque-Full--Stack_+_Data_%26_BI-7C3AED?style=for-the-badge&logo=stackshare&logoColor=white" width="100%"/>
 <br/><br/>Full-Stack + Data & BI
 </td>
 <td align="center" width="25%">
@@ -51,52 +51,49 @@
 
 ### Lenguajes & Frameworks
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,flask,django,fastapi,js,nodejs,react,angular,spring,html,css,bootstrap" />
+  </a>
+</p>
 
 ### Datos & Business Intelligence
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alembic-6BA539?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
 ### Herramientas & DevOps
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,postman" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pgAdmin-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
 ### Metodologías
 
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-1B2A4A?style=for-the-badge&logo=azuredevops&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SDLC-1B2A4A?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
 ---
 
@@ -106,34 +103,60 @@
 
 <table>
 <tr>
+
+<!-- CISCO -->
 <td align="center" width="50%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:003087&height=6" width="100%"/>
 <br/>
 
 **IT Essentials: PC Hardware and Software**
 
-<a href="https://www.credly.com/badges/8482c503-9e7f-4451-baed-2144b8e7dc0e/public_url" target="_blank">
-  <img src="https://images.credly.com/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/linkedin_thumb_ITE.png" width="150" alt="Cisco IT Essentials Badge"/>
+`Cisco Networking Academy`
+
+<table>
+<tr>
+<td align="center">
+<b>Certificado</b><br/><br/>
+<a href="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ItEssentials.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ItEssentials.png" width="160" alt="Certificado IT Essentials Cisco"/>
 </a>
+</td>
+<td align="center">
+<b>Insignia Verificada</b><br/><br/>
+<a href="https://www.credly.com/badges/8482c503-9e7f-4451-baed-2144b8e7dc0e/public_url" target="_blank">
+  <img src="https://images.credly.com/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/linkedin_thumb_ITE.png" width="130" alt="Insignia Cisco IT Essentials Credly"/>
+</a>
+</td>
+</tr>
+</table>
 
 `30 Agosto 2024` · Emitido por Cisco · Verificado en Credly
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:003087&height=6" width="100%"/>
 </td>
+
+<!-- ERASMUS -->
 <td align="center" width="50%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003399,100:FFCC00&height=6" width="100%"/>
 <br/>
 
 **Estrategias de Negocios con Power BI**
 
-<a href="https://erasmus-plus.ec.europa.eu" target="_blank">
-  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/erasmus-powerbi.png" width="150" alt="Erasmus+ Power BI Badge"/>
+`Erasmus+ · Unión Europea`
+
+<br/>
+
+<a href="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/erasmus-powerbi.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/erasmus-powerbi.png" width="200" alt="Certificado Erasmus+ Power BI"/>
 </a>
+
+<br/><br/>
 
 `Mayo 2026` · ECOCredGT · Kinal · UC3M Madrid
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003399,100:FFCC00&height=6" width="100%"/>
 </td>
+
 </tr>
 </table>
 
@@ -147,34 +170,51 @@
 
 <table>
 <tr>
+
+<!-- CIBERSEGURIDAD -->
 <td align="center" width="50%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:1a3a2a&height=6" width="100%"/>
 <br/>
 
 **Ciberseguridad y Hacking Ético**
 
-<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ciberseguridad.pdf" target="_blank">
-  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ciberseguridad.png" width="150" alt="Certificado Ciberseguridad BIG school"/>
+`BIG school`
+
+<br/>
+
+<a href="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ciberseguridad.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ciberseguridad.png" width="200" alt="Certificado Ciberseguridad BIG school"/>
 </a>
+
+<br/><br/>
 
 `Junio 2026` · Técnicas de detección de vulnerabilidades · 6h
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:1a3a2a&height=6" width="100%"/>
 </td>
+
+<!-- IA AGENTES -->
 <td align="center" width="50%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a2e,100:3d1a6e&height=6" width="100%"/>
 <br/>
 
 **Curso de IA — De 0 a Agentes**
 
-<a href="https://github.com/iperez-2024003/iperez-2024003/blob/main/certs/ia-agentes.pdf" target="_blank">
-  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ia-agentes.png" width="150" alt="Certificado IA Agentes BIG school"/>
+`BIG school`
+
+<br/>
+
+<a href="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ia-agentes.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/ia-agentes.png" width="200" alt="Certificado IA Agentes BIG school"/>
 </a>
+
+<br/><br/>
 
 `Junio 2026` · Jon Hernández · Agentes de IA · 6h
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a2e,100:3d1a6e&height=6" width="100%"/>
 </td>
+
 </tr>
 </table>
 
@@ -191,10 +231,11 @@
 **[Gestion-Restaurantes](https://github.com/iperez-2024003/Gestion-Restaurantes)**
 > Ecosistema Full-Stack para la operación de restaurantes. Conecta dueños, gerentes, personal y comensales en tiempo real.
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,mongodb" />
+  </a>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -202,9 +243,11 @@
 **[ProyectoFinal4](https://github.com/iperez-2024003/ProyectoFinal4)**
 > Juego del Ahorcado con API REST en Spring Boot + MySQL. Autenticación de usuarios, pistas y estadísticas.
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+  </a>
+</p>
 
 </td>
 </tr>
@@ -214,9 +257,11 @@
 **[Interfer](https://github.com/iperez-2024003/Interfer)**
 > API REST para autenticar usuarios, gestionar empresas y generar reportes en Excel. Arquitectura limpia y validación robusta.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=fastapi&logoColor=white)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs" />
+  </a>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -224,9 +269,11 @@
 **[CyberShield](https://github.com/iperez-2024003/CyberShield)**
 > Sitio web de ciberseguridad con catálogo de soluciones, blog técnico y simulador visual de Security Scan.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
 
 </td>
 </tr>
@@ -236,8 +283,11 @@
 **[Gestor-Opiniones](https://github.com/iperez-2024003/Gestor-Opiniones)**
 > Sistema de gestión de opiniones inspirado en redes sociales. Publicaciones e interacciones en tiempo real.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,mysql" />
+  </a>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -245,9 +295,11 @@
 **[Convertidor-Divisas](https://github.com/iperez-2024003/Convertidor-Divisas)**
 > App web para convertir divisas en tiempo real. Interfaz responsive con integración a API REST externa.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=fastapi&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,css" />
+  </a>
+</p>
 
 </td>
 </tr>
@@ -259,15 +311,21 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iperez-2024003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2E86AB&icon_color=2E86AB&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iperez-2024003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" />
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iperez-2024003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86AB&text_color=ffffff&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iperez-2024003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=iperez-2024003&theme=tokyonight&hide_border=true&background=0d1117&ring=2E86AB&fire=F59E0B&currStreakLabel=2E86AB&sideLabels=ffffff&dates=888888" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=iperez-2024003&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=ffffff&dates=888888" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
@@ -281,7 +339,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-pereziverson054%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pereziverson054@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-iperez--2024003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iperez-2024003)
 
-![Profile Views](https://komarev.com/ghpvc/?username=iperez-2024003&color=2E86AB&style=for-the-badge&label=Visitas+al+perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=iperez-2024003&color=7C3AED&style=for-the-badge&label=Visitas+al+perfil)
 
 </div>
 
@@ -289,6 +347,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2E86AB,100:1B2A4A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:1B2A4A&height=100&section=footer" width="100%"/>
 
 </div>
