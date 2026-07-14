@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:7C3AED,100:A855F7&height=200&section=header&text=Iverson%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Guatemala&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%3A+React+%2B+Node.js+%2B+Java+%2B+Ciberseguridad+%2B+IA+%2B;Certificado+Cisco+Networking+Academy;Habilidad+extra%3A+Data+Analyst+con+Power+BI;Disponible+para+trabajar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%3A+React+%2B+Node.js+%2B+Java+%2B+Ciberseguridad+%2B+IA;Certificado+Cisco+Networking+Academy;Habilidad+extra%3A+Data+Analyst+con+Power+BI;Disponible+para+trabajar)](https://git.io/typing-svg)
 
 </div>
 
@@ -50,8 +50,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-pereziverson054-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pereziverson054@gmail.com)
 &nbsp;
 [![Cisco Verified](https://img.shields.io/badge/Cisco_Badge-VERIFIED-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/8482c503-9e7f-4451-baed-2144b8e7dc0e/public_url)
-&nbsp;
-[![Erasmus+](https://img.shields.io/badge/Erasmus%2B-UE-003399?style=flat-square&logo=europeanunion&logoColor=white)](https://erasmus-plus.ec.europa.eu)
 
 </div>
 
@@ -115,7 +113,7 @@
 <tr>
 
 <!-- CISCO -->
-<td align="center" width="50%">
+<td align="center" width="100%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:003087&height=6" width="100%"/>
 <br/>
 
@@ -143,28 +141,6 @@
 `30 Agosto 2024` · Emitido por Cisco · Verificado en Credly
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:003087&height=6" width="100%"/>
-</td>
-
-<!-- ERASMUS -->
-<td align="center" width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003399,100:FFCC00&height=6" width="100%"/>
-<br/>
-
-**Estrategias de Negocios con Power BI**
-
-`Erasmus+ · Unión Europea`
-
-<br/>
-
-<a href="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/erasmus-powerbi.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/certs/erasmus-powerbi.png" width="200" alt="Certificado Erasmus+ Power BI"/>
-</a>
-
-<br/><br/>
-
-`Mayo 2026` · ECOCredGT · Kinal · UC3M Madrid
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003399,100:FFCC00&height=6" width="100%"/>
 </td>
 
 </tr>
