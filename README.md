@@ -329,7 +329,7 @@
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=iperez-2024003&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=ffffff&dates=888888" />
+<img src="https://streak-stats.demolab.com/?user=iperez-2024003&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=ffffff&dates=888888" />
 
 </div>
 
