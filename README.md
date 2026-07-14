@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:7C3AED,100:A855F7&height=200&section=header&text=Iverson%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Guatemala%20%F0%9F%87%AC%F0%9F%87%B9&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:7C3AED,100:A855F7&height=200&section=header&text=Iverson%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Guatemala&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Dev+%3A+React+%2B+Node.js+%2B+Java+%2B+Django;Data+Analyst+%3A+Power+BI+%2B+PostgreSQL+%2B+Python;Ciberseguridad+%2B+IA+%2B+Erasmus%2B+%F0%9F%87%AA%F0%9F%87%BA;Certificado+Cisco+Networking+Academy+%E2%9C%85;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%3A+React+%2B+Node.js+%2B+Java+%2B+Django;Ciberseguridad+%2B+IA+%2B+Erasmus%2B;Certificado+Cisco+Networking+Academy;Habilidad+extra%3A+Data+Analyst+con+Power+BI;Disponible+para+trabajar)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,19 +26,19 @@
 <tr>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Ubicación-Guatemala-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" width="100%"/>
-<br/><br/>🇬🇹 Guatemala
+<br/><br/>Guatemala
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Educación-Fundación_Kinal_·_2026-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" width="100%"/>
 <br/><br/>Fundación Kinal · 2026
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Enfoque-Full--Stack_+_Data_%26_BI-7C3AED?style=for-the-badge&logo=stackshare&logoColor=white" width="100%"/>
-<br/><br/>Full-Stack + Data & BI
+<img src="https://img.shields.io/badge/Enfoque-Full--Stack_Development-7C3AED?style=for-the-badge&logo=stackshare&logoColor=white" width="100%"/>
+<br/><br/>Full-Stack Development
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Disponibilidad-Inmediata-27AE60?style=for-the-badge&logo=checkmarx&logoColor=white" width="100%"/>
-<br/><br/>Disponible ahora ✅
+<br/><br/>Disponible ahora
 </td>
 </tr>
 </table>
@@ -67,7 +67,7 @@
   </a>
 </p>
 
-### Datos & Business Intelligence
+### Habilidad Extra: Datos & Business Intelligence
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -329,7 +329,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=iperez-2024003&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=ffffff&dates=888888" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=iperez-2024003&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=ffffff&dates=888888" />
 
 </div>
 
