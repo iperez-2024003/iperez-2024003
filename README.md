@@ -6,6 +6,16 @@
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/assets/ascii-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/assets/ascii-banner-light.svg">
+  <img alt="ASCII banner" src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/assets/ascii-banner-dark.svg" width="100%">
+</picture>
+
+</div>
+
 ---
 
 ## <img src="https://img.shields.io/badge/Sobre_mí-1B2A4A?style=for-the-badge&logo=github&logoColor=white"/>
