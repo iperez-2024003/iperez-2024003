@@ -32,16 +32,16 @@
   <circle cx="62" cy="42" r="5" fill="#FFBD2E"/>
   <circle cx="79" cy="42" r="5" fill="#27C93F"/>
 
-  <g class="mono">
-    <text x="40" y="90" class="prompt" font-size="16">$ whoami</text>
-    <text x="40" y="130" class="name" font-size="34">
+  <g class="mono" text-anchor="middle">
+    <text x="450" y="90" class="prompt" font-size="16">$ whoami</text>
+    <text x="450" y="130" class="name" font-size="34">
       <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.4s" fill="freeze"/>
       Iverson Maldonado
     </text>
-    <rect x="380" y="112" width="12" height="24" class="cursor cursorAnim">
+    <rect x="670" y="112" width="12" height="24" class="cursor cursorAnim">
       <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="0.8s" fill="freeze"/>
     </rect>
-    <text x="40" y="160" class="txt" font-size="15">
+    <text x="450" y="160" class="txt" font-size="15">
       <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.4s" fill="freeze"/>
       &gt; Full-Stack Developer · Guatemala
     </text>

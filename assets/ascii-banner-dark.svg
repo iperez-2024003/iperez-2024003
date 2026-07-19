@@ -29,37 +29,33 @@
   <rect width="900" height="260" rx="18" fill="url(#bgGradDark)"/>
   <rect x="1" y="1" width="898" height="258" rx="18" fill="none" stroke="#7C3AED" stroke-opacity="0.25"/>
 
-  <!-- glass panel terminal, ancho completo -->
   <rect x="30" y="30" width="840" height="200" rx="14" class="glassPanel" filter="url(#glass)"/>
   <circle cx="55" cy="52" r="5" fill="#FF5F56"/>
   <circle cx="72" cy="52" r="5" fill="#FFBD2E"/>
   <circle cx="89" cy="52" r="5" fill="#27C93F"/>
 
-  <g class="mono" font-size="16">
-    <text x="50" y="90" class="prompt">$ whoami</text>
-    <text x="50" y="118" class="txt">
+  <g class="mono" font-size="16" text-anchor="middle">
+    <text x="450" y="90" class="prompt">$ whoami</text>
+    <text x="450" y="118" class="txt">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.5s" fill="freeze"/>
       &gt; Iverson Pérez Maldonado
     </text>
-    <text x="50" y="146" class="prompt">
+    <text x="450" y="146" class="prompt">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.2s" fill="freeze"/>
       $ cat rol.txt
     </text>
-    <text x="50" y="174" class="txt">
+    <text x="450" y="174" class="txt">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.7s" fill="freeze"/>
       &gt; Full-Stack Developer
     </text>
-    <text x="50" y="202" class="prompt">
+    <text x="450" y="202" class="prompt">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.4s" fill="freeze"/>
       $ echo $UBICACION
     </text>
-    <text x="440" y="202" class="txt">
+    <text x="450" y="228" class="txt">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.9s" fill="freeze"/>
       &gt; Guatemala · Disponible ahora
     </text>
-    <rect x="425" y="192" width="10" height="16" class="cursor cursorAnim">
-      <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="2.9s" fill="freeze"/>
-    </rect>
   </g>
 
   <rect x="30" y="245" width="840" height="2" fill="url(#accentDark)"/>

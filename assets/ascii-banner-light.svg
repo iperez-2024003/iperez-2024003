@@ -31,31 +31,28 @@
   <circle cx="72" cy="52" r="5" fill="#FFBD2E"/>
   <circle cx="89" cy="52" r="5" fill="#27C93F"/>
 
-  <g class="mono" font-size="16">
-    <text x="50" y="90" class="promptL">$ whoami</text>
-    <text x="50" y="118" class="txtL">
+  <g class="mono" font-size="16" text-anchor="middle">
+    <text x="450" y="90" class="promptL">$ whoami</text>
+    <text x="450" y="118" class="txtL">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.5s" fill="freeze"/>
       &gt; Iverson Pérez Maldonado
     </text>
-    <text x="50" y="146" class="promptL">
+    <text x="450" y="146" class="promptL">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.2s" fill="freeze"/>
       $ cat rol.txt
     </text>
-    <text x="50" y="174" class="txtL">
+    <text x="450" y="174" class="txtL">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.7s" fill="freeze"/>
       &gt; Full-Stack Developer
     </text>
-    <text x="50" y="202" class="promptL">
+    <text x="450" y="202" class="promptL">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.4s" fill="freeze"/>
       $ echo $UBICACION
     </text>
-    <text x="440" y="202" class="txtL">
+    <text x="450" y="228" class="txtL">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.9s" fill="freeze"/>
       &gt; Guatemala · Disponible ahora
     </text>
-    <rect x="425" y="192" width="10" height="16" class="cursorL cursorAnimL">
-      <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="2.9s" fill="freeze"/>
-    </rect>
   </g>
 
   <rect x="30" y="245" width="840" height="2" fill="url(#accentLight)"/>
