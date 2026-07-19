@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1B2A4A,50:7C3AED,100:A855F7&height=200&section=header&text=Iverson%20Maldonado&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Guatemala&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/assets/header-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/assets/header-banner-light.svg">
+  <img alt="Header banner" src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/main/assets/header-banner-dark.svg" width="100%">
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%3A+React+%2B+Node.js+%2B+Java;Ciberseguridad+%2B+IA;Certificado+Cisco+Networking+Academy;Habilidad+extra%3A+Data+Analyst+con+Power+BI;Disponible+para+trabajar)](https://git.io/typing-svg)
 
@@ -321,9 +325,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iperez-2024003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=iperez-2024003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iperez-2024003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&langs_count=8" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=iperez-2024003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&langs_count=8" />
 
 </div>
 
