@@ -18,81 +18,49 @@
         stroke: rgba(168,85,247,0.35);
         stroke-width: 1;
       }
-      .asciiFace { fill: #A855F7; font-size: 6.4px; letter-spacing: -0.3px; }
       .prompt { fill: #7C3AED; }
       .txt { fill: #E5E7EB; }
       .cursor { fill: #A855F7; }
       @keyframes blink { 0%,49% {opacity:1;} 50%,100% {opacity:0;} }
       .cursorAnim { animation: blink 1s steps(1) infinite; }
-      @keyframes glow { 0%,100% {opacity:0.75;} 50% {opacity:1;} }
-      .glowAnim { animation: glow 3s ease-in-out infinite; }
     </style>
   </defs>
 
   <rect width="900" height="260" rx="18" fill="url(#bgGradDark)"/>
   <rect x="1" y="1" width="898" height="258" rx="18" fill="none" stroke="#7C3AED" stroke-opacity="0.25"/>
 
-  <!-- glass panel terminal -->
-  <rect x="30" y="30" width="500" height="200" rx="14" class="glassPanel" filter="url(#glass)"/>
+  <!-- glass panel terminal, ancho completo -->
+  <rect x="30" y="30" width="840" height="200" rx="14" class="glassPanel" filter="url(#glass)"/>
   <circle cx="55" cy="52" r="5" fill="#FF5F56"/>
   <circle cx="72" cy="52" r="5" fill="#FFBD2E"/>
   <circle cx="89" cy="52" r="5" fill="#27C93F"/>
 
-  <g class="mono" font-size="14">
-    <text x="50" y="85" class="prompt">$ whoami</text>
-    <text x="50" y="110" class="txt">
+  <g class="mono" font-size="16">
+    <text x="50" y="90" class="prompt">$ whoami</text>
+    <text x="50" y="118" class="txt">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.5s" fill="freeze"/>
-      &gt; Iverson Pérez
+      &gt; Iverson Pérez Maldonado
     </text>
-    <text x="50" y="135" class="prompt">
+    <text x="50" y="146" class="prompt">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.2s" fill="freeze"/>
       $ cat rol.txt
     </text>
-    <text x="50" y="160" class="txt">
+    <text x="50" y="174" class="txt">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.7s" fill="freeze"/>
       &gt; Full-Stack Developer
     </text>
-    <text x="50" y="185" class="prompt">
+    <text x="50" y="202" class="prompt">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.4s" fill="freeze"/>
       $ echo $UBICACION
     </text>
-    <text x="50" y="210" class="txt">
+    <text x="440" y="202" class="txt">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.9s" fill="freeze"/>
       &gt; Guatemala · Disponible ahora
     </text>
-    <rect x="45" y="200" width="9" height="14" class="cursor cursorAnim">
+    <rect x="425" y="192" width="10" height="16" class="cursor cursorAnim">
       <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="2.9s" fill="freeze"/>
     </rect>
   </g>
-
-  <!-- ASCII portrait panel (foto real convertida) -->
-  <rect x="550" y="30" width="320" height="200" rx="14" class="glassPanel" filter="url(#glass)"/>
-  <text class="mono asciiFace glowAnim">
-      <tspan x="560" y="42.0">------::...::.... :....+:      .  ...         </tspan>
-      <tspan x="560" y="48.6">=:::...:::::::....-:---*-:::....:::...... ..  </tspan>
-      <tspan x="560" y="55.2">--=--:........::.::..--*--+*==-==++=+==--..--:</tspan>
-      <tspan x="560" y="61.8">----=======--==:.--..::+=========-+**++++=::=+</tspan>
-      <tspan x="560" y="68.4">--:---++=+==--=+#######%####*+==---=--===--:::</tspan>
-      <tspan x="560" y="75.0">::...-+=-:::::*@@@@@@@@@@@@@@@%*++=+++++++++++</tspan>
-      <tspan x="560" y="81.6">==---==-:::::+@@@@%##*++*##%@@@@#******#***%%#</tspan>
-      <tspan x="560" y="88.2">-----=+======%@@%#*+++++=+++#@@@##%%*#%#*+*%#*</tspan>
-      <tspan x="560" y="94.8">::::::::::::-%@%**###*++******@@#*###%%#**##==</tspan>
-      <tspan x="560" y="101.4">---------::::#@***###*=+###**+#@+==+++++++++++</tspan>
-      <tspan x="560" y="108.0">---------::-:=#==+***=-=+*#*=-+%-:::::::::----</tspan>
-      <tspan x="560" y="114.6">--------------====++****+++=---=:---::-:--::::</tspan>
-      <tspan x="560" y="121.2">--------------=+++*+*****+*++==-------:-------</tspan>
-      <tspan x="560" y="127.8">=====---====---++**#*****##*+=----------------</tspan>
-      <tspan x="560" y="134.4">===-====--======+*++*****++++*+---------------</tspan>
-      <tspan x="560" y="141.0">=+=====*++=======**+++++++**+%@#+++=-------==-</tspan>
-      <tspan x="560" y="147.6">*#==#*=*%=====++****#####****%@@@%%%*+++=====-</tspan>
-      <tspan x="560" y="154.2">+#+=++=*#+=#**#%@******##***#@@@@@%#*****++++=</tspan>
-      <tspan x="560" y="160.8">#%%##%#++***##%@#**********#@@@@@@%@@@%%##**#*</tspan>
-      <tspan x="560" y="167.4">@@@@@@#***###%@@+++*******#@@@@@@@@@@@%%@@%##*</tspan>
-      <tspan x="560" y="174.0">@***#*#%@@@@@@@@%*++***#%@@@@@@@@@@@@@@%%@@%%%</tspan>
-      <tspan x="560" y="180.6">%@###%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-      <tspan x="560" y="187.2">%##%@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-  </text>
-  <text x="710" y="222" text-anchor="middle" fill="#7C3AED" font-size="9" class="mono" opacity="0.85">Iverson · &lt;/&gt; dev</text>
 
   <rect x="30" y="245" width="840" height="2" fill="url(#accentDark)"/>
 </svg>
