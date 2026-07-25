@@ -339,7 +339,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/output/github-contribution-grid-snake.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/output/commit-invaders.svg">
+  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/iperez-2024003/iperez-2024003/output/commit-invaders.svg" width="100%">
+</picture>
 
 </div>
 
